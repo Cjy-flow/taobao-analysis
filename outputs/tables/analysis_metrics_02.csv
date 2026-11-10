@@ -1,0 +1,12 @@
+﻿metric,value,note
+buy_user_total,6689.0,有购买行为的用户总数
+gap_over5_ratio,12.75,占多次购买用户比例%
+gap_over5_users,471.0,相邻购买间隔超过5天的用户数
+multi_buy_users,3695.0,购买>=2次(可算间隔)的用户数
+nov_buy_users,5208.0,11月有购买行为的用户数
+nov_max_category,45.0,11月单用户最多购买品类数
+nov_total_pv,551538.0,11月(11-25~30)累计访问量
+top30_buy_share,60.94,前30%用户贡献购买量占比%
+top30_threshold_buy,3.0,前30%用户的最低购买次数
+top30_user_count,2007.0,购买量前30%用户数
+total_buy,20359.0,全周期累计购买量

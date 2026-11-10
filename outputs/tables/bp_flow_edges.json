@@ -1,0 +1,32 @@
+[
+ {
+  "source":"浏览",
+  "target":"收藏",
+  "value":13174
+ },
+ {
+  "source":"浏览",
+  "target":"加购",
+  "value":28159
+ },
+ {
+  "source":"浏览",
+  "target":"购买",
+  "value":11749
+ },
+ {
+  "source":"浏览",
+  "target":"流失",
+  "value":142737
+ },
+ {
+  "source":"收藏",
+  "target":"购买",
+  "value":1575
+ },
+ {
+  "source":"加购",
+  "target":"购买",
+  "value":3420
+ }
+]

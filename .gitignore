@@ -1,0 +1,39 @@
+# IDE 与系统文件
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 依赖与构建产物
+frontend/node_modules/
+backend/target/
+frontend/dist/
+*.class
+*.jar
+
+# 运行产物与缓存
+outputs/parquet/
+outputs/models/
+outputs/*.log
+outputs/*.log.*
+outputs/*.err
+outputs/*.sql
+__pycache__/
+*.pyc
+
+# 大体积数据集（见 README「配置准备」）
+data/UserBehavior.csv
+
+# 课程报告等文档：无论署名，一律不随仓库发布
+*.pdf
+*.doc
+*.docx
+*.ppt
+*.pptx
+*.rtf
+
+# 本地凭据
+.env
+*.local

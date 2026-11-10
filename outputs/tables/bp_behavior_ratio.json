@@ -1,0 +1,26 @@
+[
+ {
+  "behavior_type":"pv",
+  "behavior_cn":"浏览",
+  "cnt":895636,
+  "ratio_pct":89.606
+ },
+ {
+  "behavior_type":"cart",
+  "behavior_cn":"加购",
+  "cnt":55447,
+  "ratio_pct":5.547
+ },
+ {
+  "behavior_type":"fav",
+  "behavior_cn":"收藏",
+  "cnt":28088,
+  "ratio_pct":2.81
+ },
+ {
+  "behavior_type":"buy",
+  "behavior_cn":"购买",
+  "cnt":20359,
+  "ratio_pct":2.037
+ }
+]

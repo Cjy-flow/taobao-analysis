@@ -1,0 +1,22 @@
+[
+ {
+  "behavior_type":"buy",
+  "behavior_cn":"购买",
+  "count":20359
+ },
+ {
+  "behavior_type":"cart",
+  "behavior_cn":"加购",
+  "count":55447
+ },
+ {
+  "behavior_type":"fav",
+  "behavior_cn":"收藏",
+  "count":28088
+ },
+ {
+  "behavior_type":"pv",
+  "behavior_cn":"浏览",
+  "count":895636
+ }
+]

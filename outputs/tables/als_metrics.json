@@ -1,0 +1,27 @@
+[
+ {
+  "metric":"als_precision_at10",
+  "value":0.0051,
+  "note":"ALS Top10精确率"
+ },
+ {
+  "metric":"als_recall_at10",
+  "value":0.0048,
+  "note":"ALS Top10召回率"
+ },
+ {
+  "metric":"als_ndcg_at10",
+  "value":0.0062,
+  "note":"ALS NDCG@10"
+ },
+ {
+  "metric":"als_map",
+  "value":0.0017,
+  "note":"平均精度均值"
+ },
+ {
+  "metric":"als_coldstart_users",
+  "value":15.0,
+  "note":"冷启动用户数(热门兜底)"
+ }
+]

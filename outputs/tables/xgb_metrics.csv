@@ -1,0 +1,13 @@
+﻿metric,value,note
+auc,0.8506,XGBoost购买意向预测
+accuracy,0.9089,XGBoost购买意向预测
+precision,0.2845,XGBoost购买意向预测
+recall,0.6047,XGBoost购买意向预测
+f1,0.3869,XGBoost购买意向预测
+tn,3982.0,XGBoost购买意向预测
+fp,327.0,XGBoost购买意向预测
+fn,85.0,XGBoost购买意向预测
+tp,130.0,XGBoost购买意向预测
+n_train,18093.0,XGBoost购买意向预测
+n_pos_train,862.0,XGBoost购买意向预测
+neg_ratio,20.0,XGBoost购买意向预测

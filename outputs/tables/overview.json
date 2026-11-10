@@ -1,0 +1,16 @@
+{
+  "raw_rows": 1000000,
+  "clean_rows": 999530,
+  "dropped_rows": 470,
+  "n_users": 9739,
+  "n_items": 398971,
+  "n_categories": 5793,
+  "date_start": "2017-11-25",
+  "date_end": "2017-12-03",
+  "behavior_dist": {
+    "buy": 20359,
+    "cart": 55447,
+    "fav": 28088,
+    "pv": 895636
+  }
+}

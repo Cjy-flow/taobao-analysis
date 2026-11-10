@@ -1,0 +1,32 @@
+[
+ {
+  "octant":"一般挽留客户",
+  "users":2039,
+  "ratio_pct":30.48
+ },
+ {
+  "octant":"重要价值客户",
+  "users":1975,
+  "ratio_pct":29.53
+ },
+ {
+  "octant":"一般发展客户",
+  "users":1795,
+  "ratio_pct":26.84
+ },
+ {
+  "octant":"重要保持客户",
+  "users":761,
+  "ratio_pct":11.38
+ },
+ {
+  "octant":"一般价值客户",
+  "users":77,
+  "ratio_pct":1.15
+ },
+ {
+  "octant":"一般保持客户",
+  "users":42,
+  "ratio_pct":0.63
+ }
+]

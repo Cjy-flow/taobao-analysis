@@ -1,0 +1,18 @@
+[
+ {
+  "cell":"真负TN",
+  "count":3982
+ },
+ {
+  "cell":"假正FP",
+  "count":327
+ },
+ {
+  "cell":"假负FN",
+  "count":85
+ },
+ {
+  "cell":"真正TP",
+  "count":130
+ }
+]

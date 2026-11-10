@@ -1,0 +1,17 @@
+server:
+  port: 8080
+  servlet:
+    encoding:
+      charset: UTF-8
+      force: true
+
+spring:
+  application:
+    name: taobao-analysis-backend
+  datasource:
+    url: jdbc:mysql://localhost:3306/taobao_analysis?useSSL=false&characterEncoding=utf8&serverTimezone=Asia/Shanghai&allowPublicKeyRetrieval=true
+    username: root
+    password: ${DB_PASSWORD:CHANGE_ME}
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+# 分析结果表统一前缀说明：均由 Spark 作业写入 taobao_behavior 库

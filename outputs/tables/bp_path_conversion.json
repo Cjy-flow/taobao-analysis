@@ -1,0 +1,32 @@
+[
+ {
+  "path":"浏览-购买",
+  "sessions":7358,
+  "base_sessions":154486,
+  "conversion_pct":7.605
+ },
+ {
+  "path":"浏览-收藏-购买",
+  "sessions":1109,
+  "base_sessions":13174,
+  "conversion_pct":11.515
+ },
+ {
+  "path":"浏览-加购-购买",
+  "sessions":2874,
+  "base_sessions":28159,
+  "conversion_pct":11.655
+ },
+ {
+  "path":"浏览-加购-收藏-购买",
+  "sessions":408,
+  "base_sessions":2488,
+  "conversion_pct":16.399
+ },
+ {
+  "path":"浏览-流失(未购买)",
+  "sessions":142737,
+  "base_sessions":154486,
+  "conversion_pct":92.395
+ }
+]

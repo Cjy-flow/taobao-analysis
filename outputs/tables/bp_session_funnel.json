@@ -1,0 +1,27 @@
+[
+ {
+  "stage":"有效会话",
+  "sessions":164076,
+  "pct_of_all":100.0
+ },
+ {
+  "stage":"含浏览(pv)",
+  "sessions":154486,
+  "pct_of_all":94.155
+ },
+ {
+  "stage":"含收藏(fav)",
+  "sessions":15130,
+  "pct_of_all":9.221
+ },
+ {
+  "stage":"含加购(cart)",
+  "sessions":32333,
+  "pct_of_all":19.706
+ },
+ {
+  "stage":"含购买(buy)",
+  "sessions":15497,
+  "pct_of_all":9.445
+ }
+]

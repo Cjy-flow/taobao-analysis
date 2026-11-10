@@ -1,0 +1,6 @@
+﻿metric,value,note
+als_precision_at10,0.0051,ALS Top10精确率
+als_recall_at10,0.0048,ALS Top10召回率
+als_ndcg_at10,0.0062,ALS NDCG@10
+als_map,0.0017,平均精度均值
+als_coldstart_users,15.0,冷启动用户数(热门兜底)
